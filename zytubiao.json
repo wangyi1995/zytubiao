@@ -4,43 +4,43 @@
     "icons": [
         {
             "name": "heisi", 
-            "url": "https://img.1176520.xyz/file/44df58b76921cdbf86b9b.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/Heisi.png"
         }, 
         {
             "name": "laoda", 
-            "url": "https://img.1176520.xyz/file/b77d57cc3d33f3cc65e19.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/laoda.png"
         },
         {
             "name": "mugu", 
-            "url": "https://img.1176520.xyz/file/9c14f3f7f3908bf729be7.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/mugu.png"
         },
         {
             "name": "pilipili", 
-            "url": "https://img.1176520.xyz/file/e5da95d15c1c7792e7597.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/PiliPili.png"
         }, 
         {
             "name": "paul", 
-            "url": "https://img.1176520.xyz/file/8e2cbb32bae47e3c41e5a.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/Paul.png"
         }, 
         {
             "name": "TreeDiagram", 
-            "url": "https://img.1176520.xyz/file/d0596f356fa29b5b37944.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/TreeDiagram.png"
         }, 
         {
             "name": "tiannan", 
-            "url": "https://img.1176520.xyz/file/f7406cd46fe4fbb3e6770.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/tiannan.png"
         },
         {
             "name": "tanhua", 
-            "url": "https://img.1176520.xyz/file/98be7563fc59981e3d45e.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/tanhua.png"
         }, 
         {
         "name": "1111", 
-            "url": "https://img.1176520.xyz/file/baa32fbb29effd5d48266.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/1111.png"
         },
         {
             "name": "zhipianren", 
-            "url": "https://img.1176520.xyz/file/507d12aa33cecfcf2a9b0.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/img/ZhiPianRen.png"
         }          
     ]
 }
