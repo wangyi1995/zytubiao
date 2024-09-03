@@ -4,43 +4,43 @@
     "icons": [
         {
             "name": "heisi", 
-            "url": "./img/Heisi.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/Heisi.png"
         }, 
         {
             "name": "laoda", 
-            "url": "./img/laoda.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/laoda.png"
         },
         {
             "name": "mugu", 
-            "url": "./img/mugu.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/mugu.png"
         },
         {
             "name": "pilipili", 
-            "url": "./img/PiliPili.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/PiliPili.png"
         }, 
         {
             "name": "paul", 
-            "url": "./img/Paul.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/Paul.png"
         }, 
         {
             "name": "TreeDiagram", 
-            "url": "./img/TreeDiagram.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/TreeDiagram.png"
         }, 
         {
             "name": "tiannan", 
-            "url": "./img/tiannan.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/tiannan.png"
         },
         {
             "name": "tanhua", 
-            "url": "./img/tanhua.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/tanhua.png"
         }, 
         {
         "name": "1111", 
-            "url": "./img/1111.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/1111.png"
         },
         {
             "name": "zhipianren", 
-            "url": "./img/ZhiPianRen.png"
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/ZhiPianRen.png"
         }          
     ]
 }
