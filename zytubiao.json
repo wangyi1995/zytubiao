@@ -1,0 +1,46 @@
+{
+    "name": "Emby Icon", 
+    "description": "自用，按照A-Z排列", 
+    "icons": [
+        {
+            "name": "heisi", 
+            "url": "./img/Heisi.png"
+        }, 
+        {
+            "name": "laoda", 
+            "url": "./img/laoda.png"
+        },
+        {
+            "name": "mugu", 
+            "url": "./img/mugu.png"
+        },
+        {
+            "name": "pilipili", 
+            "url": "./img/PiliPili.png"
+        }, 
+        {
+            "name": "paul", 
+            "url": "./img/Paul.png"
+        }, 
+        {
+            "name": "TreeDiagram", 
+            "url": "./img/TreeDiagram.png"
+        }, 
+        {
+            "name": "tiannan", 
+            "url": "./img/tiannan.png"
+        },
+        {
+            "name": "tanhua", 
+            "url": "./img/tanhua.png"
+        }, 
+        {
+        "name": "1111", 
+            "url": "./img/1111.png"
+        },
+        {
+            "name": "zhipianren", 
+            "url": "./img/ZhiPianRen.png"
+        }          
+    ]
+}
