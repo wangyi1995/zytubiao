@@ -3,6 +3,10 @@
     "description": "自用，按照A-Z排列", 
     "icons": [
         {
+            "name": "ApopCloud", 
+            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/ApopCloud.png"
+        }, 
+        {
             "name": "heisi", 
             "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/Heisi.png"
         }, 
