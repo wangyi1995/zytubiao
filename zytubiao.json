@@ -4,59 +4,59 @@
     "icons": [
         {
             "name": "ApopCloud", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/ApopCloud.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/ApopCloud.png"
         }, 
         {
             "name": "awa", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/awa.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/awa.png"
         },
 		{
             "name": "放映厅", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/FangYingTing.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/FangYingTing.png"
         },
         {
             "name": "heisi", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/Heisi.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/Heisi.png"
         }, 
 		 {
             "name": "hxd", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/hxd.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/hxd.png"
         }, 
         {
             "name": "laoda", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/laoda.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/laoda.png"
         },
         {
             "name": "mugu", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/mugu.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/mugu.png"
         },
         {
             "name": "pilipili", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/PiliPili.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/PiliPili.png"
         }, 
         {
             "name": "paul", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/Paul.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/Paul.png"
         }, 
         {
             "name": "TreeDiagram", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/TreeDiagram.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/TreeDiagram.png"
         }, 
         {
             "name": "tiannan", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/tiannan.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/tiannan.png"
         },
         {
             "name": "tanhua", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/tanhua.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/tanhua.png"
         }, 
         {
         "name": "1111", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/1111.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/1111.png"
         },
         {
             "name": "zhipianren", 
-            "url": "https://raw.githubusercontent.com/wangyi1995/zytubiao/main/img/ZhiPianRen1.png"
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/ZhiPianRen1.png"
         }          
     ]
 }
