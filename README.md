@@ -4,6 +4,6 @@ emby服自用图标包目前只收录了以下图标:
 
 https://raw.githubusercontent.com/wangyi1995/zytubiao/main/zytubiao.json
 
-cdn.jsdelivr加速链接图标包链接
+cdn.jsdelivr加速链接图标包链接:
 
 https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/zytubiao.json
