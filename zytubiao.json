@@ -10,6 +10,10 @@
             "name": "awa", 
             "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/awa.png"
         },
+        {
+            "name": "105", 
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/105.png"
+        },
 		{
             "name": "放映厅", 
             "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/FangYingTing.png"
@@ -41,6 +45,14 @@
         {
             "name": "mugu", 
             "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/mugu.png"
+        },
+        {
+            "name": "OkEmby", 
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/okemby.png"
+        },
+        {
+            "name": "Nya", 
+            "url": "https://cdn.jsdelivr.net/gh/wangyi1995/zytubiao/img/nya.png"
         },
         {
             "name": "pilipili", 
